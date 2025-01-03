@@ -36,8 +36,8 @@ I'm **Raimon**, a tech-creative and 3D artist based in West-Friesland, Netherlan
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raimonvibe&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Raimon's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raimonvibe&theme=radical" alt="Raimon's GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raimonvibe&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Raimon's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raimonvibe&theme=radical" alt="Raimon's GitHub Streak Stats" />
 </p>
 
 <p align="center">
