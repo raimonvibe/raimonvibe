@@ -57,6 +57,9 @@ I'm **Raimon**, a tech-creative and 3D artist based in West-Friesland, Netherlan
 - [🤖 **AI Projects**](https://github.com/raimonvibe/Simple_DQN_Balancing_Pole_on_Cart): Exploring the intersection of AI and creativity
 - [🌐 **Web Development**](https://github.com/raimonvibe/Meadowbrook): Modern web applications and experiments
 
+---
+
+<<<<<<< Updated upstream
 
 ### 🌌 Connect With Me
 
@@ -86,6 +89,7 @@ I'm **Raimon**, a tech-creative and 3D artist based in West-Friesland, Netherlan
 [![Tree of Life Tutorial](https://img.shields.io/badge/-Tree_of_Life_Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=N9SBndNrGqk)
 [![Anchor Tutorial](https://img.shields.io/badge/-Anchor_Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=5IDEyAo9j98)
 [![Keychain Tutorial](https://img.shields.io/badge/-Keychain_Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=rpAD0FtkL0c)
+||||||| constructed merge base
 
 
 =======
