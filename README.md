@@ -59,6 +59,7 @@ I'm **Raimon**, a tech-creative and 3D artist based in West-Friesland, Netherlan
 
 ---
 
+<<<<<<< Updated upstream
 ### 🌌 Connect With Me
 
 #### 📱 Social Media
@@ -87,6 +88,27 @@ I'm **Raimon**, a tech-creative and 3D artist based in West-Friesland, Netherlan
 [![Tree of Life Tutorial](https://img.shields.io/badge/-Tree_of_Life_Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=N9SBndNrGqk)
 [![Anchor Tutorial](https://img.shields.io/badge/-Anchor_Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=5IDEyAo9j98)
 [![Keychain Tutorial](https://img.shields.io/badge/-Keychain_Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=rpAD0FtkL0c)
+||||||| constructed merge base
+### 🌌 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/raimonvibe"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:info@raimonvibe.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://twitter.com/raimonvibe"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
+=======
+### 🌌 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/raimonvibe"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:info@raimonvibe.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://twitter.com/raimonvibe"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://instagram.com/raimonvibe"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://tiktok.com/@raimonvibe"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+  <a href="https://pinterest.com/raimonvibe"><img src="https://img.shields.io/badge/-Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
+  <a href="https://www.threads.net/@raimonvibe"><img src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
+  <a href="https://medium.com/@raimonvibe"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.goodreads.com/user/show/171733928-r..."><img src="https://img.shields.io/badge/-Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads"/></a>
+</p>
+>>>>>>> Stashed changes
 
 ---
 
