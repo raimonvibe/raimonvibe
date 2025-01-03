@@ -1,9 +1,9 @@
 name: Generate Contribution Art
 
 on:
-  # Runs every 12 hours
+  # Runs every minute (minimum GitHub Actions interval)
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "* * * * *"
   # Allows manual trigger
   workflow_dispatch:
 
