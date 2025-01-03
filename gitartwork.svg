@@ -4,7 +4,7 @@
         --c1: #8b4513; /* SaddleBrown for a warm and earthy feel */
         --c2: #90ee90; /* LightGreen for a fresh, vibrant highlight */
         --c3: #800080; /* Purple for a bold, royal contrast */
-        --c4: #00ced1; /* DarkGrey for a neutral, grounding element */
+        --c4: #808080; /* Grey for a neutral, grounding element */
     }
     .o, .o[data-level="0"] {
         fill: var(--c0);
