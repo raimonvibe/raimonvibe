@@ -1,3 +1,6 @@
+![Contribution art](gitartwork.svg)
+
+
 # 🌟 Welcome to Raimon's GitHub Profile! 🌟
 
 ### Hi there! 👋  
