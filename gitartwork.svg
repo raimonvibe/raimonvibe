@@ -1,10 +1,10 @@
 <svg width="823" height="148" class="js-calendar-graph-svg" xmlns="http://www.w3.org/2000/svg"><style>
     :root {
-        --c0: #2f4f4f; /* Yellow for a vibrant and sunny highlightffd700;
-        --c1: #add8e6; /* LightBlue for a calming and airy accent */
-        --c2: #90ee90; /* LightGreen for a fresh, vibrant highlight */
-        --c3: #800080; /* Purple for a bold, royal contrast */
-        --c4: #ffd700; /* Grey for a neutral, grounding element */
+        --c0: #f5f5f5; /* Light Grey */
+        --c1: #dcdcdc; /* Gainsboro */
+        --c2: #a9a9a9; /* DarkGrey */
+        --c3: #c3e8ff; /* Pastel Blue */
+        --c4: #d4edda; /* Pastel Green */
     }
     .o, .o[data-level="0"] {
         fill: var(--c0);
