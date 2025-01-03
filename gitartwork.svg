@@ -1,7 +1,7 @@
 <svg width="823" height="148" class="js-calendar-graph-svg" xmlns="http://www.w3.org/2000/svg"><style>
     :root {
         --c0: #000000; /* Black background */
-        --c1: #ff69b4; /* HotPink for a striking accent */
+        --c1: #800080; /* Purple for a bold, royal contrast */
         --c2: #00ced1; /* DarkTurquoise for a cool, refreshing touch */
         --c3: #8b4513; /* SaddleBrown for a warm and earthy feel */
         --c4: #90ee90; /* LightGreen for a fresh, vibrant highlight */
