@@ -35,10 +35,23 @@ I'm **Raimon**, a tech-creative and 3D artist based in West-Friesland, Netherlan
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=raimonvibe&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Raimon's GitHub Stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=raimonvibe&theme=radical" alt="Raimon's GitHub Streak Stats"/> </p>
-🔥 GitHub Activity
-<p align="center"> 📊 **32 Public Repositories**<br> 👥 **19 Followers** · Following **46 Developers**<br> 🌟 **Member since August 2016** </p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raimonvibe&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Raimon's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raimonvibe&theme=radical" alt="Raimon's GitHub Streak Stats"/>
+</p>
+
+---
+
+### 🔥 GitHub Activity
+<p align="center">
+  📊 **32 Public Repositories**<br>
+  👥 **19 Followers** · Following **46 Developers**<br>
+  🌟 **Member since August 2016**
+</p>
 
 ---
 
@@ -49,7 +62,6 @@ I'm **Raimon**, a tech-creative and 3D artist based in West-Friesland, Netherlan
 
 ---
 
-<<<<<<< Updated upstream
 
 ### 🌌 Connect With Me
 
