@@ -1,10 +1,10 @@
 <svg width="823" height="148" class="js-calendar-graph-svg" xmlns="http://www.w3.org/2000/svg"><style>
     :root {
         --c0: #000000; /* Black background */
-        --c1: #ff7f50; /* Coral for a vibrant accent */
-        --c2: #1e90ff; /* DodgerBlue for a lively tone */
-        --c3: #ff6347; /* Tomato for a warm color */
-        --c4: #32cd32; /* LimeGreen for a fresh look */
+        --c1: #ff69b4; /* HotPink for a striking accent */
+        --c2: #00ced1; /* DarkTurquoise for a cool, refreshing touch */
+        --c3: #8b4513; /* SaddleBrown for a warm and earthy feel */
+        --c4: #90ee90; /* LightGreen for a fresh, vibrant highlight */
     }
     .o, .o[data-level="0"] {
         fill: var(--c0);
