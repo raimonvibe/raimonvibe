@@ -1,7 +1,7 @@
 <svg width="823" height="148" class="js-calendar-graph-svg" xmlns="http://www.w3.org/2000/svg"><style>
     :root {
         --c0: #808080; /* DarkTurquoise for a cool, refreshing touch */
-        --c1: #8b4513; /* SaddleBrown for a warm and earthy feel */
+        --c1: #add8e6; /* LightBlue for a calming and airy accent */
         --c2: #90ee90; /* LightGreen for a fresh, vibrant highlight */
         --c3: #800080; /* Purple for a bold, royal contrast */
         --c4: #2f4f4f; /* Grey for a neutral, grounding element */
