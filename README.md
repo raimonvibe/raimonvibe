@@ -77,7 +77,7 @@ I'm **Raimon**, a tech-creative and 3D artist based in West-Friesland, Netherlan
 
 #### 📺 YouTube Content
 [![Cookie Clicker Bot](https://img.shields.io/badge/-Cookie_Clicker_Bot-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=zXNmr61oR9Y)
-[![3D Printing Content](https://img.shields.io/badge/-3D_Printing_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=3D-printing)
+[![3D Printing Content](https://img.shields.io/badge/-3D_Printing_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/shorts/k_lV7GHvscM)
 
 #### 🎨 3D Models & Tutorials
 [![3D Models Portfolio](https://img.shields.io/badge/-3D_Models_Portfolio-822EF5?style=for-the-badge&logo=threedotjs&logoColor=white)](https://cults3d.com/en/users/raimonvibe/3d-models)
