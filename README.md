@@ -41,9 +41,9 @@ I'm **Raimon**, a tech-creative and 3D artist based in West-Friesland, Netherlan
 ---
 
 ### 🌟 Featured Repositories
-- [🎨 **Creative Portfolio**](https://github.com/raimonvibe/portfolio): Showcasing my journey as a tech-creative and 3D artist
-- [🤖 **AI Projects**](https://github.com/raimonvibe/ai-projects): Exploring the intersection of AI and creativity
-- [🌐 **Web Development**](https://github.com/raimonvibe/web-projects): Modern web applications and experiments
+- [🎨 **AI Project**](https://github.com/raimonvibe/Simple_DQN_Balancing_Pole_on_Cart): Showcasing my journey as a tech-creative and 3D artist
+- [🤖 **More AI Projects**](https://github.com/raimonvibe/saas_code_review): Exploring the intersection of AI and creativity
+- [🌐 **Web Development**](https://github.com/raimonvibe/Meadowbrook): Modern web applications and experiments
 
 ---
 
