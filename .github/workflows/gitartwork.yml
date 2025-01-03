@@ -13,20 +13,23 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
       
-      - uses: jasineri/gitartwork@v1
+      - name: Generate Contribution Art
+        uses: jasineri/gitartwork@v1
         with:
           # Use your username
           user_name: raimonvibe
           # Your custom text (could be your name, a message, etc)
-          text: RAIMONVIBE
+          text: </CODER>
           # Configure text appearance
-          text_color: "#36BCF7"
-          background: "#0D1117"
+          text_color: "#36BCF7,#FF5733,#FFC300,#DAF7A6,#C70039" # Multicolor gradient for text
+          background: "linear-gradient(to bottom, #000000, #333333)" # Black to dark gray gradient background
           # Adjust layout
           line_height: 100
           
-      - uses: jasineri/simple-push-action@v1
+      - name: Push Changes
+        uses: jasineri/simple-push-action@v1
