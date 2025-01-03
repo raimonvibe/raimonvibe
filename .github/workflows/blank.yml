@@ -1,0 +1,21 @@
+name: Generate Contribution Art
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Make Contribution Art
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: jasineri/gitartwork@v1
+        with:
+          user_name: raimonvibe
+          text: raimonvibe
+          
+      - uses: jasineri/simple-push-action@v1
