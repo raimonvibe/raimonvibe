@@ -36,8 +36,8 @@ I'm **Raimon**, a tech-creative and 3D artist based in West-Friesland, Netherlan
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raimonvibe&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Raimon's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raimonvibe&theme=radical" alt="Raimon's GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raimonvibe&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Raimon's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raimonvibe&theme=radical" alt="Raimon's GitHub Streak Stats"/>
 </p>
 
 <p align="center">
@@ -50,9 +50,9 @@ I'm **Raimon**, a tech-creative and 3D artist based in West-Friesland, Netherlan
 ---
 
 ### 🌟 Featured Repositories
-- [🎨 **AI Project**](https://github.com/raimonvibe/Simple_DQN_Balancing_Pole_on_Cart): Showcasing my journey as a tech-creative and 3D artist
-- [🤖 **More AI Projects**](https://github.com/raimonvibe/saas_code_review): Exploring the intersection of AI and creativity
-- [🌐 **Web Development**](https://github.com/raimonvibe/Meadowbrook): Modern web applications and experiments
+- [🎨 **Creative Portfolio**](https://github.com/raimonvibe/portfolio): Showcasing my journey as a tech-creative and 3D artist
+- [🤖 **AI Projects**](https://github.com/raimonvibe/ai-projects): Exploring the intersection of AI and creativity
+- [🌐 **Web Development**](https://github.com/raimonvibe/web-projects): Modern web applications and experiments
 
 ---
 
