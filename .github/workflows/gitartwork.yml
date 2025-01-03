@@ -22,6 +22,11 @@ jobs:
           # Use your username
           user_name: raimonvibe
           # Your custom text (could be your name, a message, etc)
-          text: raimonvibe
+          text: RAIMONVIBE
+          # Configure text appearance
+          text_color: "#36BCF7"
+          background: "#0D1117"
+          # Adjust layout
+          line_height: 100
           
       - uses: jasineri/simple-push-action@v1
