@@ -24,7 +24,7 @@ jobs:
           # Use your username
           user_name: raimon
           # Your custom text (could be your name, a message, etc)
-          text: Coder
+          text: < CODE >
           # Configure text appearance
           text_color: "#FF5733"
           background: "#000000"
