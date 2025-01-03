@@ -24,7 +24,7 @@ jobs:
           # Use your username
           user_name: raimonvibe
           # Your custom text (could be your name, a message, etc)
-          text: </CODER>
+          text: < / CODER >
           # Configure text appearance
           text_color: "#36BCF7,#FF5733,#FFC300,#DAF7A6,#C70039" # Multicolor gradient for text
           background: "linear-gradient(to bottom, #000000, #333333)" # Black to dark gray gradient background
