@@ -10,7 +10,7 @@ I'm **Raimon**, a tech-creative and 3D artist based in West-Friesland, Netherlan
 
 ### 🚀 About Me
 - 👀 **Interests**: Software development, 3D artistry, AI, and building meaningful projects
-- 🌱 **Currently Learning**: **Psysics** 
+- 💡 **Currently Learning**: ** 🌌 Psysics** 
 - 📫 **Reach Me**: Drop a message at [info@raimonvibe.com](mailto:info@raimonvibe.com)
 - 💪 **Beliefs**: Advocating for **disability rights**, supporting and empowering individuals to chase their dreams  
 - ✨ **Discover My Journey**: [zaap.bio/raimonvibe](https://zaap.bio/raimonvibe)  
