@@ -50,7 +50,7 @@ I'm **Raimon**, a tech-creative and 3D artist based in West-Friesland, Netherlan
 -->
 
 
-<p align="center"> <strong>GitHub Activity:</strong><br> 📊 32 Public Repositories<br> 👥 19 Followers · Following 46 Developers<br> 🌟 Member since August 2016 </p>
+<p align="center"> <strong>GitHub Activity:</strong><br> 📊 32 Public Repositories<br> 👥 20 Followers · Following 46 Developers<br> 🌟 Member since August 2016 </p>
 
 ---
 
