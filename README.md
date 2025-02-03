@@ -95,8 +95,6 @@ I'm **Raimon**, a tech-creative and 3D artist based in West-Friesland, Netherlan
 
 
 
-=======
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raimonvibe/raimonvibe/output/github-contribution-grid-snake-dark.svg" />
