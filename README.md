@@ -1,8 +1,6 @@
 ![Contribution art](gitartwork.svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raimonvibe&label=👀+Profile+views&color=0e75b6&style=flat" alt="raimonvibe" />
-</p>
+
 # 🌟 Welcome to Raimon's GitHub Profile! 🌟
 
 ### Hi there! 👋  
