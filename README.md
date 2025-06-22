@@ -8,11 +8,8 @@ I'm **Raimon**, a tech-creative and 3D artist based in West-Friesland, Netherlan
 
 ---
 <div align="center" style="margin-top: 20px;">
-  <img 
-    src="https://komarev.com/ghpvc/?username=raimonvibe&label=👀+Profile+views&color=0e75b6&style=flat"
-    alt="Profile views"
-    style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); margin: 10px 0;" 
-  />
+<img src="https://komarev.com/ghpvc/?username=raimonvibe&label=Views&color=0e75b6&style=flat" alt="raimonvibe" />
+
   <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px; color: #0e75b6;">
     Thanks for visiting my profile 💙
   </p>
