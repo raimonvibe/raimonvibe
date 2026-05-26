@@ -1,10 +1,8 @@
 name: Generate Contribution Art
 
 on:
-  # Runs every minute (minimum GitHub Actions interval)
   schedule:
     - cron: "* * * * *"
-  # Allows manual trigger
   workflow_dispatch:
 
 jobs:
@@ -13,23 +11,15 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
-      
+        uses: actions/checkout@v4
+
       - name: Generate Contribution Art
         uses: jasineri/gitartwork@v1
         with:
-          # Use your username
           user_name: raimon
-          # Your custom text (could be your name, a message, etc)
-          text: $ {CODE}
-          # Configure text appearance
-          text_color: "#FF5733"
-          background: "#000000"
-          # Adjust layout
-          line_height: 100
-          
+          text: CODE
+
       - name: Push Changes
         uses: jasineri/simple-push-action@v1
