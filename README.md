@@ -57,11 +57,6 @@ I'm **Raimon**, a tech-creative and 3D artist based in West-Friesland, Netherlan
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/GitHub%20Activity-%F0%9F%93%8A%20135%20Repos%20%7C%20%F0%9F%91%A5%2055%20Followers%20%7C%2089%20Following%20%7C%20%F0%9F%8C%9F%20Since%20Aug%202016-red?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Activity Badge">
-</p>
-
-
-<p align="center">
 <img src="https://img.shields.io/badge/GitHub%20Activity-%F0%9F%93%8A%20135%20Repos%20%7C%20%F0%9F%91%A5%2056%20Followers%20%7C%2090%20Following%20%7C%20%F0%9F%8C%9F%20Since%20Aug%202016-red?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Activity Badge">
 </p>
 
